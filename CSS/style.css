@@ -45,7 +45,8 @@ body {
 }
 .container::after {
   content: "";
-  width: 381.4px;
+  /* width: 381.4px; */
+  width: auto;
   height: 520px;
   background-image: url("assets/bg-main-mobile.png");
   background-size: cover;
